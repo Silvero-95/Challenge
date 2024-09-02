@@ -1,0 +1,6 @@
+Reporte de bug:
+https://trello.com/b/mZm8XfE3/challenge-xacademy
+
+Plan de pruebas
+
+https://docs.google.com/spreadsheets/d/1rBgnSdIqEpuUGjhYGp-NWgGu44oMRXyk/edit?usp=sharing&ouid=109281725880549763416&rtpof=true&sd=true
